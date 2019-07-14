@@ -1,0 +1,37 @@
+{
+    "name": "php-productive-pack",
+    "displayName": "PHP Productive Pack",
+    "description": "PHP essential extensions for enhancing productivities",
+    "version": "0.1.0",
+    "publisher": "onecentlin",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/onecentlin/php-productive-pack-vscode"
+    },
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#2C3E50",
+        "theme": "dark"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "php",
+        "phpunit",
+        "refactor"
+    ],
+    "extensionPack": [ 
+        "onecentlin.phpunit-snippets",
+        "recca0120.vscode-phpunit",
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "neilbrayfield.php-docblocker",
+        "junstyle.php-cs-fixer",
+        "mehedidracula.php-constructor",
+        "mehedidracula.php-namespace-resolver"
+    ]
+}
