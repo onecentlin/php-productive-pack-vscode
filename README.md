@@ -23,6 +23,7 @@ Extension | Objective
 --------- | ---------
 [PHP Constructor](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-constructor) | Initialize php constructor properties
 [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) | Import and expand php namespaces
+[PHP Add Property](https://marketplace.visualstudio.com/items?itemName=kotfire.php-add-property) | Manage PHP class properties
 
 ## PHP Formatting
 

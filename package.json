@@ -2,7 +2,7 @@
     "name": "php-productive-pack",
     "displayName": "PHP Productive Pack",
     "description": "PHP essential extensions for enhancing productivities",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
@@ -32,6 +32,7 @@
         "neilbrayfield.php-docblocker",
         "junstyle.php-cs-fixer",
         "mehedidracula.php-constructor",
-        "mehedidracula.php-namespace-resolver"
+        "mehedidracula.php-namespace-resolver",
+        "kotfire.php-add-property"
     ]
 }
