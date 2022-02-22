@@ -16,6 +16,7 @@ Extension | Objective
 --------- | ---------
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | High performance, feature rich PHP intellisense
 [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) | Debug support for PHP with XDebug
+[PhpStorm Parameter Hints in VScode](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode)
 
 ## PHP Refactoring
 
@@ -30,7 +31,7 @@ Extension | Objective
 Extension | Objective
 --------- | ---------
 [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) | A simple, dependency free PHP specific DocBlocking package
-[PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) | PHP formatter, PHP code beautify tool, format HTML
+[PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=mansoorkhan96.php-cs-fixer) | PHP CS Fixer extension for VS Code with zero config
 
 
 ## Contact

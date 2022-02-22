@@ -2,6 +2,11 @@
 
 All notable changes to the "php-productive-pack" extension pack will be documented in this file.
 
+### 1.1.0 (2022-02-22)
+
+- Add `PhpStorm Parameter Hints in VScode`
+- Replace `PHP CS Fixer` - PHP CS Fixer extension for VS Code with zero config
+
 ### 1.0.0 (2020-09-09)
 
 - Add `PHP Add Property` - Manage PHP class properties
