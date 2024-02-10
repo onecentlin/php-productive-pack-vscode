@@ -33,6 +33,12 @@ Extension | Objective
 [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) | A simple, dependency free PHP specific DocBlocking package
 [PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=mansoorkhan96.php-cs-fixer) | PHP CS Fixer extension for VS Code with zero config
 
+## Tooling
+
+Extension | Objective
+--------- | ---------
+[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+
 
 ## Contact
 

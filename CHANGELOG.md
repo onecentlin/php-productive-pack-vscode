@@ -2,6 +2,10 @@
 
 All notable changes to the "php-productive-pack" extension pack will be documented in this file.
 
+### 1.2.0 (2023-02-10)
+
+- Add `REST Client`
+
 ### 1.1.0 (2022-02-22)
 
 - Add `PhpStorm Parameter Hints in VScode`
