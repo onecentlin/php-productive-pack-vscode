@@ -2,7 +2,7 @@
     "name": "php-productive-pack",
     "displayName": "PHP Productive Pack",
     "description": "PHP essential extensions for enhancing productivities",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
